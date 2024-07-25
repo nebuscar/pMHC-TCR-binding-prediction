@@ -1,0 +1,13 @@
+*.Rhistory
+**/.Rproj.user
+*.RData
+*.rds
+*.gz
+*.zip
+data/raw/**
+.Rproj.user/**
+.Rproj.user
+/Projects/data/
+*.h5ad
+*.mtx
+*.csv
